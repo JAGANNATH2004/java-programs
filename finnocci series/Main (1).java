@@ -16,6 +16,6 @@ public class Main
 	        a=c;
 	    }
 	    System.out.println("The limmit ends here......");
-	    System.out.println("\n"+"           THANK YOU");
+	    System.out.println("\n"+"THANK YOU");
 	}
 }
